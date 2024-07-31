@@ -2,6 +2,7 @@
 Application to reconstruct the calculation of gravity value using Neural Networks.
 
 It utilizes the historical data of signals collected from other accidents and analyzed by a medical team:
+
 qPA: quality of blood pressure; results from the evaluation of the relationship between systolic and diastolic pressure;
 pulse: pulse rate or Beats Per Minute (BPM);
 respiratory rate: breathing frequency per minute;
